@@ -1,0 +1,56 @@
+[
+    {
+        "id":"01",
+        "img":"https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1380&t=st=1666775688~exp=1666776288~hmac=c52610c03958c370a172267aef4e5d573a7e2f09544f2073c4e49f34f65b15fa",
+        "course_name":"front end development",
+        "course_desc":"Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you'll have the portfolio and interview skills you need to start your new career. About this Career Path Get in-depth knowledge: Learning to code means more than just memorizing syntax. Instead, we help you think like a real programmer. Get a helpful roadmap: Like a career advisor, we guide you through each step. You'll learn the right thing at the right time, all in one place. Get hired: Learn how to tackle interview questions and code challenges asked at companies like Google and Amazon. Enroll in this course now."
+    },
+    {
+        "id":"02",
+        "img":"https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?w=1060&t=st=1666775766~exp=1666776366~hmac=04328dd92c31e3aca0b26b8be8a0eab06380a2cf1cc99208f615da1e8e39b1d2",
+        "course_name":"back end development",
+        "course_desc":"No matter what you're building, having a strong foundation is crucial — that's where back-end engineers come in. In this Career Path, you'll start with programming servers and client-side interfaces, then level up to designing databases. By the end, you'll have everything you need to start your career as a back-end engineer. About this Career Path Get in-depth knowledge: Learning to code means more than just memorizing syntax. Instead, we help you think like a real programmer. Get a helpful roadmap: Like a career advisor, we guide you through each step. You'll learn the right thing at the right time, all in one place. Get hired: Learn how to tackle interview questions and code challenges asked at companies like Google and Amazon. Join us and become a back end developer."
+    },
+    {
+        "id":"03",
+        "img":"https://www.spec-india.com/wp-content/uploads/2020/06/Full_Stack.png",
+        "course_name":"full stack development",
+        "course_desc":"As a jack of all trades (and master of quite a few), a full-stack engineer can get a project done from start to finish. In this Career Path, you'll begin with the front-end, move on to the back-end, then learn to connect the two. By the time you're done, you'll have the well-rounded skills needed to enter this in-demand job market. About this Career Path Get in-depth knowledge: Learning to code means more than just memorizing syntax. Instead, we help you think like a real programmer. Get a helpful roadmap: Like a career advisor, we guide you through each step. You'll learn the right thing at the right time, all in one place. Get hired: Learn how to tackle interview questions and code challenges asked at companies like Google and Amazon. Enroll now and become a full stack web developer."
+    },
+    {
+        "id":"04",
+        "img":"https://img.freepik.com/free-vector/programming-concept-illustration_114360-1213.jpg?w=740&t=st=1666775911~exp=1666776511~hmac=dcd5a8f4370d8b2e45dd8742924fdc19925aebdfb90860505edb7946121c801b",
+        "course_name":"php programming",
+        "course_desc":"PHP is a widely used server-side scripting language that has become increasingly fast and powerful through the years. You can also use it on the front-end since PHP can be embedded right into HTML. These features make learning PHP a great option for any web developer. In this course, you'll work through PHP fundamental programming concepts and gain the skills necessary to develop programs in PHP. kills you'll gain Fundamental programming concepts Use PHP with HTML forms Create classes and objects"
+    },
+    {
+        "id":"05",
+        "img":"https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=996&t=st=1666775974~exp=1666776574~hmac=d0079b01dbc299083faf6f4c49dfa3db3d450abae3bf5c525540c518c9912871",
+        "course_name":"mobile app development",
+        "course_desc":"Every year more and more people rely on mobile devices to meet their needs. Where websites used to be the gold-standard, people now rely on mobile apps. The technologies used to create these apps are expanding and improving quickly, so it's an exciting time to start learning Mobile Development! In this course you will learn about flutter and create magnificent mobile apps. So, don't waste any more time and join to become a mobile app developer"
+    },
+    {
+        "id":"06",
+        "img":"https://img.freepik.com/free-vector/hand-drawn-web-developers-working_23-2148819605.jpg?w=740&t=st=1666776118~exp=1666776718~hmac=95953ada3a2452039a579521f43f875d0347c3ffe662adb8cb3bd25267bb9775",
+        "course_name":"learn python",
+        "course_desc":"Python is a general-purpose, versatile and popular programming language. It's great as a first language because it is concise and easy to read, and it is also a good language to have in any programmer's stack as it can be used for everything from web development to software development and scientific applications. This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you'll be comfortable programming in Python and taking your skills off the Rezabrihi platform and onto your own computer."
+    },
+    {
+        "id":"07",
+        "img":"https://www.writersevoke.com/wp-content/uploads/2022/08/Guide-to-Blockchain-Development.jpg",
+        "course_name":"blockchain development",
+        "course_desc":"Blockchain development refers to building, maintaining, and designing blockchain applications and systems. Overall, it seeks to use the unique features of blockchain technology to solve problems and create opportunities. Demand for blockchain developers is high because they work with disruptive and exciting technology. As a result, job opportunities in this field are abundant. The US Bureau of Labor Statistics (BLS) projects a 22 percent growth in software development jobs between 2020 and 2030. Studies suggest the blockchains market will climb to over $39 billion by 2025. So, don't miss this opportunity and become a student by enrolling in this course."
+    },
+    {
+        "id":"08",
+        "img":"https://mobisoftinfotech.com/resources/wp-content/uploads/2022/04/next-JS-framework.png",
+        "course_name":"learn Next.js",
+        "course_desc":"Next.js is an open-source web development framework of React created by Vercel enabling React-based web applications with server-side rendering and generating static websites. React documentation mentions Next.js among 'Recommended Toolchains' advising it to developers as a solution when 'Building a server-rendered website with Node.js Where traditional React apps can only render their content in the client-side browser, Next.js extends this functionality to include applications rendered on the server-side. The copyright and trademarks for Next.js are owned by Vercel, which also maintains and leads its open-source development. Learn Next.js now and become master at building apps with React."
+    },
+    {
+        "id":"09",
+        "img":"https://www.techaheadcorp.com/wp-content/uploads/2020/04/cloud-native-applications-1.png",
+        "course_name":"cloud development",
+        "course_desc":"Cloud development refers to building, testing, deploying, and running software services in the cloud. These applications built in a cloud environment are called cloud software. Cloud development is also known as cloud-based development or in-cloud development. Prominent cloud service providers include Amazon web services AWS, Microsoft Azure, Google Cloud Platform, etc. These cloud providers are helping businesses take public and private cloud computing initiatives. The main idea is to use cloud resources instead of physical on-premises hardware, servers, etc. Join today and become a cloud developer."
+    }
+]

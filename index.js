@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const faq = require("./data/faq.json");
 const blog = require("./data/blog.json");
+const courses = require("./data/courses.json");
 
 app.use(cors());
 
@@ -18,6 +19,10 @@ app.get("/faq", (req, res) => {
 
 app.get("/blog", (req, res) => {
   res.send(blog);
+});
+
+app.get("/courses", (req, res) => {
+  res.send(courses);
 });
 
 app.listen(port, () => {
