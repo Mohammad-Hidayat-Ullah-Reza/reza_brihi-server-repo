@@ -1,0 +1,47 @@
+[
+    {
+        "id":"01",
+        "question":"Who should attend this course?",
+        "answer":"This course is suitable for anyone who wants to create active websites using HTML5, CSS3, Twitter Bootstrap 3 and jQuery can take this course."
+    },
+    {
+        "id":"02",
+        "question":"What are the pre-requisites?",
+        "answer":"For attending this Web Development certification training, delegates should have basic computer skills."
+    },
+    {
+        "id":"03",
+        "question":"What will I learn in this course?",
+        "answer":"In this course, you will learn advanced development techniques, syntax, variables, operators of PHP, fundamentals of jQuery, styling and formatting of HTML, and CSS for beginning web developers."
+    },
+    {
+        "id":"04",
+        "question":"How long until I receive the course confirmation details?",
+        "answer":"Once your booking has been placed and confirmed, you will receive an email which contains your course location, course overview, pre-course reading material (if required), course agenda and payment receipts"
+    },
+    {
+        "id":"05",
+        "question":"What are durations of the courses?",
+        "answer":"Depending on the courses, they could be 3 - 6 months."
+    },
+    {
+        "id":"06",
+        "question":"How will I get all the videos?",
+        "answer":"You need to pay for the course and then all your videos will be available in your profile."
+    },
+    {
+        "id":"07",
+        "question":"How much time do I have to give per day?",
+        "answer":"You need to give 6-8 hours per day on this courses."
+    },
+    {
+        "id":"08",
+        "question":"I do full time job, should I enroll in this course?",
+        "answer":"If you can manage 6-8 hours everyday. Then you should enroll."
+    },
+    {
+        "id":"09",
+        "question":"Is there anything about freelancing?",
+        "answer":"No, there's nothing about freelancing. We focus on skill development and later job. "
+    }
+]
