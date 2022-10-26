@@ -1,0 +1,32 @@
+[
+    {
+        "id":"01",
+        "question":"what is cors?",
+        "answer": "Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served."
+    },
+    {
+        "id":"02",
+        "question":"Why are you using firebase? What other options do you have to implement authentication?",
+        "answer": "The reason I am using firebase because I don't have enough skill or time to create a backend for my web apps. By using firebase I can easily maintain my web app's user's authentication, google analytics, maintain real time database and promote my app by using dynamic links."
+    },
+    {
+        "id":"03",
+        "question":"What other options do you have to implement authentication other than firebase?",
+        "answer": "STYTCH, Ory, Supabase, Okta, PingIdentity, Keycloak, Frontegg, Authress, Auth0, Firebase, Amazon Cognito, OneLogin"
+    },
+    {
+        "id":"04",
+        "question":"How does the private route work?",
+        "answer": "The private route checks if the user is authenticated or not.If the user is authenticated then it will allow you to visit the link. If the user is not authenticated then it won't allow you to visit the link and redirect you to the login page. The user must login to visit the link."
+    },
+    {
+        "id":"05",
+        "question":"What is Node? How does Node work?",
+        "answer": "Node.js is an open-source and cross-platform runtime environment built on Chrome's V8 JavaScript engine for executing JavaScript code outside of a browser. NodeJS isn't a framework, and it's not a programing language. It provides an event-driven, non-blocking (asynchronous) I/O and cross-platform runtime environment for building highly scalable server-side applications using JavaScript."
+    },
+    {
+        "id":"06",
+        "question":"How does Node work?",
+        "answer": "Node.js is made of chrome V8 engine which is written in C++ and Libuv. Node.js application runs only on a single thread. So, the functions are called asynchronously and the app isn't getting blocked for other callbacks. Event-loop is what allows Node.js applications to run non-blocking asynchronous I/O based operations i.e, all the asynchronous code is managed and executed within the event-loop and before that, we can use our synchronous code which is in this case known as Top-Level code. But this way we can't build CPU intensive apps like video animation, heavy games etc. We can easily create normal daily application by using node.js"
+    }
+]
